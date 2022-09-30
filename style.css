@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.intro h1{
+    text-align: center;
+    font-fami ly: tahoma;   
+}
+.intro p {
+    width: 900px;
+}
